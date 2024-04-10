@@ -1,10 +1,16 @@
-
+import UserPost from './components/UserPost ';
+import WindowSize from "./components/WindowSize "
+import CountdownTimer from './components/CountdownTimer '
+import ValidatedInput from './components/ValidatedInput ';
 
 function App() {
 
   return (
     <>
-      <h1>Hola mundo</h1>
+      <UserPost id={1} />
+      <CountdownTimer />
+      <WindowSize />
+      <ValidatedInput />
     </>
   )
 }
