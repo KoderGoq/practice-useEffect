@@ -1,5 +1,7 @@
 # React + Vite
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/391918417340487582e7b33e6e079196)](https://app.codacy.com/gh/KoderGoq/practice-useEffect?utm_source=github.com&utm_medium=referral&utm_content=KoderGoq/practice-useEffect&utm_campaign=Badge_Grade)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
