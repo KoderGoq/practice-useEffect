@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <UserPost id={1} />
-      <CountdownTimer />
+      <CountdownTimer initialTime={10}/>
       <WindowSize />
       <ValidatedInput />
     </>
